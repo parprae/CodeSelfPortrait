@@ -1,2 +1,2 @@
 # CodeSelfPortrait
-This is a Processing sketch of a Code Self-portrait
+This is a Processing sketch of my Code Self-Portrait
